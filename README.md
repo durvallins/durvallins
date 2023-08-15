@@ -1,10 +1,10 @@
 ### Olá, eu sou o Durval Lins 👋
 
-- 🔭 Hoje estou como estudante de back e frontend
-- 🌱 Estudando Typescript, Javascript, Angular, React, Banco de Dados
+- 🔭 MBA em Data Science, Analytics e BI em curso
+- 🌱 Estudando Data Science, Analytics, BI, BA
 - 😄 Pronomes: ele/ele
 
-## Olá, eu sou Durval Lins, estudante de desenvolvimento web!
+## Olá, eu sou Durval Lins, estudante de Data Science, Analytics e BI
 <div align="center">
   <a href="https://github.com/durvallins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=durvallins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,9 +20,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-                              
-  <>
-
   <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
