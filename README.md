@@ -1,7 +1,7 @@
 ### Olá, eu sou o Durval Lins 👋
 
-- 🔭 MBA em Data Science, Analytics e BI em curso
-- 🌱 Estudando Data Science, Analytics, BI, BA
+- 🔭 MBA em Data Science, Analytics e BI
+- 🌱 Entusiasta Data Science, Analytics, BI, BA
 - 😄 Pronomes: ele/ele
 
 ## Olá, eu sou Durval Lins, estudante de Data Science, Analytics e BI
