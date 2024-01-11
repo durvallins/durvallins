@@ -4,7 +4,7 @@
 - 🌱 Entusiasta Data Science, Analytics, BI, BA
 - 😄 Pronomes: ele/ele
 
-## Olá, eu sou Durval Lins, estudante de Data Science, Analytics e BI
+## Olá, eu sou Durval, Entusiasta de Data Science, Analytics, BI, BA
 <div align="center">
   <a href="https://github.com/durvallins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=durvallins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
