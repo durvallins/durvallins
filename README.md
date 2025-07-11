@@ -1,5 +1,6 @@
 ### Olá, eu sou o Durval Lins 👋
 
+- 📖 Mestrando em Engenharia da Computação - POLI/UPE
 - 🔭 MBA em Data Science, Analytics e BI
 - 🌱 Entusiasta Data Science, Analytics, BI, BA
 - 😄 Pronomes: ele/ele
