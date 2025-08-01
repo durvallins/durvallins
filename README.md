@@ -2,7 +2,7 @@
 
 - 📖 Mestrando em Engenharia da Computação - POLI/UPE
 - 🔭 MBA em Data Science, Analytics e BI
-- 🌱 Entusiasta Data Science, Analytics, BI
+- 🌱 Entusiasta em Análise de Dados, Ciência de Dados, Engenharia de Dados
 - 😄 Pronomes: ele/ele
 
 <div align="center">
