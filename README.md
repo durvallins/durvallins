@@ -1,9 +1,8 @@
-<h1 align="center">Olá, eu sou Durval Siqueira</h1>
+# Olá, eu sou Durval Siqueira 
 
-<h3 align="center">
-Generative AI Engineer | LLMs | RAG | ML & AI Solutions
-</h3>
+**Generative AI Engineer | LLMs | RAG | ML & AI Solutions**
 
-<p align="center">
-Databricks Certified Generative AI Engineer Associate
-</p>
+🎓 Databricks Certified Generative AI Engineer Associate <br>
+👨‍🏫 Professor universitário (Machine Learning e Banco de Dados)<br>
+🐍 Python | SQL | Pipelines de Dados | Streamlit<br>
+🤖 IA Generativa: RAG, LLMOps, MLOps, LLMs<br>
