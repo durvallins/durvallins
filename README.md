@@ -1,4 +1,4 @@
-# Olá, eu sou Durval Siqueira 👋
+# Olá, eu sou Durval Siqueira
 
 **Generative AI Engineer | LLMs | RAG | ML & AI Solutions**
 
@@ -6,3 +6,17 @@
 👨‍🏫 Professor universitário (Machine Learning e Banco de Dados)<br>
 🐍 Python | SQL | Pipelines de Dados | Streamlit<br>
 🤖 IA Generativa: RAG, LLMOps, MLOps, LLMs<br>
+
+---
+
+### 🐍 Contribuições
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![snake gif](https://raw.githubusercontent.com/durvallins/durvallins/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Contato
+📧 durval.lsiqueira@gmail.com
